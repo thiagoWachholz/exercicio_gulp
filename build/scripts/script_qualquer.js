@@ -1,1 +1,1 @@
-function ಠ_ಠ754(ಠ_ಠ755,ಠ_ಠ756){return ಠ_ಠ755+ಠ_ಠ756}console.log(ಠ_ಠ754(1,58)),console.log(ಠ_ಠ754(58.9));
+function ಠ_ಠ528(ಠ_ಠ529,ಠ_ಠ530){return ಠ_ಠ529+ಠ_ಠ530}console.log(ಠ_ಠ528(1,58)),console.log(ಠ_ಠ528(58.9));
